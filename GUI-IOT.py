@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter.ttk import *
 import tkinter
-import cv2 
 
 #**********************setting the gui window***************************#
 
